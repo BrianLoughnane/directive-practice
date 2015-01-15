@@ -1,0 +1,16 @@
+.red {
+	color: red;	
+}
+
+.margin {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.left {
+	width: 80%;
+}
+
+.right {
+	width: 15%;
+}
